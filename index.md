@@ -2,7 +2,7 @@
 
 ---
 
-## ![React Developer RoadMap](/reactjs.jpg "React Developer RoadMap")
+## ![React Developer RoadMap](./reactjs.jpg "React Developer RoadMap")
 
 ---
 
@@ -58,7 +58,7 @@ Bất kể bạn học framework hay thư viện nào để phát triển web, b
 JavaScript
 Đây là trụ cột thứ ba của việc phát triển web và được sử dụng để làm cho các trang web của bạn trở nên có tính tương tác. Đó cũng là mục đích của thư viện React. Do đó bạn nên biết JavaScript và biết rõ về nó trước khi cố gắng học React JS.
 
-![React Developer RoadMap](/reactjs.jpg "React Developer RoadMap")
+![React Developer RoadMap](./reactjs.jpg "React Developer RoadMap")
 
 ## 🔵 NHỮNG KỸ NĂNG DEVELOPMENT CHUNG
 
@@ -247,6 +247,6 @@ Nếu bạn quan tâm đến việc xây dựng các ứng dụng dựa trên Th
 Đó là tất cả những gì về The 2021 React RoadMap.
 Bạn đã nhìn thấy được bức tranh toàn diện. Có thể bạn sẽ cảm thấy phấn khích hoặc hơi choáng ngợp trước những kiến thức mình cần phải học. Tuy nhiên hãy cứ bắt đầu từ từ từng bước một. Khi đã có nền tảng vững chắc thì những kiến thức sau này bạn sẽ càng học nhanh hơn thôi.
 
-## ![React Developer RoadMap](/reactjs.jpg "React Developer RoadMap")
+## ![React Developer RoadMap](./reactjs.jpg "React Developer RoadMap")
 
 ---
